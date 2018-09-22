@@ -1,18 +1,5 @@
 # weixin-xiaochengxu666-info-小程序开发干货汇总
 
-weixin-xiaochengxu666-info 第一初版 是由[OpenDigg]整理的微信小程序开源项目库集合。
-
-小北 二次整理分享，以此声明。
-
-如果收录的项目有错误，可以通过[issue]反馈给我。这里的项目Star数不是实时更新的，一般是一周更新一次。 
-
-********
-可能是最帅的公众号-前端你别闹（webunao）
-
-认真生活 、快乐工作
-
-![image.png](https://mmbiz.qpic.cn/mmbiz_jpg/MYDsergzqQkOviaBusrQCFpvzB8v4CD6BtpsG2UODIl0Af2kgrt8BiabR2uoLjQFIv54wT0rVPnkjEtDtibcYeibtg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
-
 ********
 
 # 内容 
@@ -178,7 +165,4 @@ weixin-xiaochengxu666-info 第一初版 是由[OpenDigg]整理的微信小程序
 - [liwushuoapp](https://github.com/chongbenben/liwushuoapp) ★11 - 微信小程序开发的App 
 - [weapp-sportsnews](https://github.com/havenxie/weapp-sportsnews) ★8 - 体育新闻微信小程序 
 - [labrador_mobx_example](https://github.com/spacedragon/labrador_mobx_example) ★4 - 基于Labrador和mobx构建的小程序开发demo 
-
-欢迎扫码关注我 
-![image.png](https://mmbiz.qpic.cn/mmbiz_jpg/MYDsergzqQkOviaBusrQCFpvzB8v4CD6BtpsG2UODIl0Af2kgrt8BiabR2uoLjQFIv54wT0rVPnkjEtDtibcYeibtg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 
